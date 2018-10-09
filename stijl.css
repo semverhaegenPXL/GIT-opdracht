@@ -1,0 +1,19 @@
+h1 {
+    background: grey;
+    color: white;
+    padding: 10px;
+}
+tr {
+    padding: 10px;
+    background: darkgrey;
+    color: white;
+}
+h2 {
+
+}
+footer {
+    background: darkgrey;
+    color: black;
+    padding: 10px;
+}
+
