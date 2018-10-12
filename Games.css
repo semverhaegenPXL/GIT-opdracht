@@ -1,0 +1,35 @@
+h1 {
+    background: grey;
+    color: white;
+    padding: 20px;
+    margin: 0px;
+}
+h3 {
+    padding: 10px;
+    background: darkgrey;
+    color: white;
+    margin: 0px;
+}
+footer {
+    background: darkgrey;
+    color: black;
+    padding: 10px;
+}
+.div-float {
+    background: orange;
+    height: 5px;
+    margin: 0px;
+}
+table {
+    position: center;
+    margin: auto;
+    border: 1px solid black;
+}
+thead {
+    position: center;
+    background: grey;
+}
+
+.stijl {
+    background: darkgrey;
+}
